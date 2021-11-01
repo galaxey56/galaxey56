@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
   Hey there 👋 I'm Satyakiran (also known as ) Galaxy
 - ◼️ Sophomore at IIIT Sricity
-- 🌱 Larning Backend Development
+- 🌱 Learning Backend Development
 - 😃 Currently looking for fellow peers to work on Machine Learning Models
 - :v: Familiar with frontend Development and Machine learning models
 
