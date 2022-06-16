@@ -4,9 +4,9 @@
 Here are some ideas to get you started:
 -->
   Hey there 👋 I'm Satyakiran (also known as ) Galaxy
-- ◼️ Sophomore at IIIT Sricity
-- 🌱 Learning Backend Development
+- ◼️ 3rd Year at IIIT Sricity
+- 🌱 MERN Stack Developer
 - 😃 Currently looking for fellow peers to work on Machine Learning Models
-- :v: Familiar with frontend Development and Machine learning models
+- :v: Constantly practising on my Web dev skills
 
 My MailId️ ✉️ **satyakiran56@gmail.com**
